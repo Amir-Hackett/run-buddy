@@ -1,10 +1,13 @@
 /*Secondary Style Pages*/
 
 .hero {
-    background-position: bottom;
-    height: auto;
-    text-align: center;
-    margin-bottom: 40px;
+    background-size: cover;
+    background-position: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: fixed;
 }
 
 .page-title {
